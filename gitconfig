@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = l.illanes.roel@gmail.com
+	name = lidia illanes
